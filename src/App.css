@@ -1,0 +1,35 @@
+.membershipMainDiv{
+  display: flex
+  ;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+
+.cardDiv{
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+.card{
+  width: 350px;
+    border: 4px solid blue;
+    border-radius: 30px;
+    padding: 30px;
+}
+.cardPrice{
+  color: cyan;
+    font-style: italic;
+}
+.cardDeleteButton{
+  border-radius: 30px;
+    background-color: cornflowerblue;
+    border: none;
+    width: 100px;
+    padding: 10px;
+    color: aliceblue;
+}
+.refleshDiv{
+  text-align: center;
+}

@@ -1,19 +1,22 @@
 {
-    "upgrade":[
-        { "id" :1,
-        "content": "devolvia temel",
-        "title":"devolvia free",
-        "price":0
-    },    
-    { "id" :2,
-    "content": "ekstra  stabil ses",
-    "title":"devolvia plus",
-    "price":20
+  "upgrade": [
+    {
+      "id": 1,
+      "content": "devolvia temel",
+      "title": "devolvia free",
+      "price": 0
     },
-    { "id" :3,
-    "content": "ekstra token ve daha fazla çeviri",
-    "title":"devolvia plus plus",
-    "price":40
+    {
+      "id": 2,
+      "content": "ekstra  stabil ses",
+      "title": "devolvia plus",
+      "price": 20
+    },
+    {
+      "id": 3,
+      "content": "ekstra token ve daha fazla çeviri",
+      "title": "devolvia plus plus",
+      "price": 40
     }
-    ]
+  ]
 }

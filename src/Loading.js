@@ -1,4 +1,4 @@
-function Loading () {
-    return <div>Yükleniyor...</div>;   
+function Loading() {
+  return <div>Yükleniyor...</div>;
 }
-export default Loading ;
+export default Loading;
